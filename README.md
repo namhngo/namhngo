@@ -44,17 +44,6 @@
 
 ### AI & Automation
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
-![Mistral AI](https://img.shields.io/badge/Mistral_AI_(OCR)-FA520F?style=flat-square&logo=mistralai&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector_%2F_RAG-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-1A1A1A?style=flat-square)
-
----
-
-### Featured Projects
-
-- **[media-detective-vn](https://github.com/namhngo/media-detective-vn)** — An AI media literacy platform for spotting scams and misinformation in Vietnam, built for the UNESCO Youth Hackathon 2026. The investigation agent uses on-demand playbook routing over MCP tools and is validated against 33/33 deterministic assertion gates.
-- **[Wellnest](https://github.com/namhngo/Wellnest)** — A patient management platform for Denison Wellness Center, serving 4,000+ students. Five backend microservices stay in sync through Kafka, with a single AWS ALB handling path-based routing for unified ingress.
-- **[Terraform-infra-setup](https://github.com/namhngo/Terraform-infra-setup)** — My AWS infrastructure-as-code playground. It provisions an asynchronous notification pipeline on SQS, Lambda, and SES, with dead-letter queue retry handling built in.
+| OpenAI | Vercel AI SDK | Mistral AI | pgvector | n8n |
+|:---:|:---:|:---:|:---:|:---:|
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/openai_dark.svg" /><img src="https://svgl.app/library/openai.svg" width="42" /></picture> | <img src="https://cdn.simpleicons.org/vercel/000000/FFFFFF" width="42" /> | <img src="https://cdn.simpleicons.org/mistralai/FA520F/FA520F" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" /> | <img src="https://cdn.simpleicons.org/n8n/EA4B71/EA4B71" width="42" /> |
