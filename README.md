@@ -20,9 +20,9 @@
 
 ### Languages
 
-| Python | TypeScript | Java | C | C++ | Go | SQL | HTML/CSS |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" /> |
+| Python | TypeScript | Java | C++ | Go | SQL |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" /> |
 
 ### Frameworks and Libraries
 
@@ -30,19 +30,19 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="42" /> |
 
-### Databases
+### Databases, Infrastructure & AI
 
 | PostgreSQL | MongoDB | Redis | Firebase |
 |:---:|:---:|:---:|:---:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="42" /> |
 
-### Infrastructure, Observability & Tooling
+#### Infrastructure, Observability & Tooling
 
-| AWS | Terraform | Docker | Kafka | Grafana | OpenTelemetry | Git | Postman | Jupyter |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" /> | <img src="https://cdn.simpleicons.org/apachekafka/231F20/FFFFFF" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="42" /> |
+| AWS | Terraform | Docker | Kafka | Grafana | OpenTelemetry | Git | Postman |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" /> | <img src="https://cdn.simpleicons.org/apachekafka/231F20/FFFFFF" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42" /> |
 
-### AI & Automation
+#### AI & Automation
 
 | OpenAI | Vercel AI SDK | Mistral AI | pgvector | n8n |
 |:---:|:---:|:---:|:---:|:---:|
