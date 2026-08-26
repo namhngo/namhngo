@@ -1,64 +1,45 @@
-### Hi there 👋
+## Nam Ngo
 
-I'm **Nam Ngo** — a fullstack developer passionate about building AI agents, cloud infrastructure, and developer tooling.
+Software engineer at Satelytics, working on real-time geospatial platforms, event-driven backends, and AWS infrastructure.
+CS & Math, Denison University. Mostly Python/TypeScript, currently spending my time on AI agent tooling and observability.
 
----
+### Stack
 
-**🛠️ What I work with**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
----
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
-**🚀 Featured Projects**
+### Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [`discovery-pipeline`](https://github.com/namhngo/discovery-pipeline) | AI customer discovery portal — audits transcripts with The Mom Test, extracts JTBD insights, exports structured data | React, Node.js, OpenAI, Prisma |
-| [`Terraform-infra-setup`](https://github.com/namhngo/Terraform-infra-setup) | Personal AWS infrastructure — async notification system (SQS + Lambda + SES) with batching, retry, and monitoring | Terraform, AWS |
-| [`Wellnest`](https://github.com/namhngo/Wellnest) | Healthcare wellness application | Java, Spring |
-| [`nestjs-prisma-demo`](https://github.com/namhngo/nestjs-prisma-demo) | Backend scaffold with NestJS + Prisma ORM | NestJS, TypeScript |
+**[media-detective-vn](https://github.com/namhngo/media-detective-vn)** — AI media literacy platform for verifying claims and reporting scams in Vietnam. Investigation agent with modular skill routing over MCP tools, prompt-injection defense, and execution tracing via OpenTelemetry + Langfuse. Built for the UNESCO Youth Hackathon.
 
----
+**[Wellnest](https://github.com/namhngo/Wellnest)** — Patient management system for a campus wellness center serving 4,000+ students. Five Spring Boot microservices with Kafka for event-driven sync, fronted by a single AWS ALB with path-based routing.
 
-**📊 GitHub Stats**
+**[Terraform-infra-setup](https://github.com/namhngo/Terraform-infra-setup)** — Personal AWS infrastructure as code. Event-driven notification pipeline on SQS + Lambda + SES with batching, retries, and dead-letter handling.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namhngo&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namhngo&layout=compact&theme=default&hide_border=true" height="160" />
-</p>
+### Contact
 
----
-
-**🌱 Currently learning**
-
-- Event-driven architectures & system design patterns
-- Self-hosted observability (OpenTelemetry, Loki, Grafana)
-- AI agent orchestration with n8n
-
----
-
-**📫 Connect**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/namhngo)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nathanngo010203@gmail.com)
+[![Email](https://img.shields.io/badge/Email-namhngo010203@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:namhngo010203@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/namhngo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/namhngo)
